@@ -2,17 +2,18 @@
     box-sizing: border-box;
 }
 body{
-    /* background-color: wheat; */
+    background-color: wheat;
 }
 .container {
-    height: 56.5vh;
+    height: 55.5vh;
     width: 45vw;
-    border: 2px solid whitesmoke;
+    /* border: 2px solid whitesmoke; */
     border-radius: 10px;
     position: relative;
     left: 4
     100px;
     top: 150px;
+    background-color: aliceblue;
 }
 .head{
     display: flex;
