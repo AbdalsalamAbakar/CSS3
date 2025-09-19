@@ -14,6 +14,7 @@ body{
     100px;
     top: 150px;
     background-color: aliceblue;
+    box-shadow: 1px 1px 1px 3px rgb(223, 216, 216);
 }
 .head{
     display: flex;
